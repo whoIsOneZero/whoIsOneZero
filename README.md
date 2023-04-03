@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shallom
-- 👀 I’m interested in anything Tech. 
-- 🌱 I’m currently learning Mobile app Dev. with Flutter.
-- 💞️ I’m looking to collaborate on Mobile app dev.
+- 👋 Hi, I’m Shalom
+- I’m interested in anything Tech. 
+- Flutter dev.
+- I’m looking to collaborate on Mobile app dev.
 - 📫 How to reach me email:oh.shalom.0@gmail.com
 
 <!---
