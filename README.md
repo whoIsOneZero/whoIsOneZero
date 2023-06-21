@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Shalom
-- I’m interested in anything Tech. 
+- 👋 Hi, I’m Shalom 
 - Flutter dev.
 - I’m looking to collaborate on Mobile app dev.
 - 📫 How to reach me email:oh.shalom.0@gmail.com
