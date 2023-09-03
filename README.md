@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shalom 
+- 👋 Hi. Call me whoisOneZero.
 - Flutter dev.
 - I’m looking to collaborate on Mobile app dev.
 - 📫 How to reach me email:oh.shalom.0@gmail.com
