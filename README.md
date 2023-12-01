@@ -2,7 +2,7 @@
 - Software Engineer and Flutter dev.
 - I’m looking to collaborate on Mobile app dev.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony-cloud-1&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-cloud-1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony-cloud-1&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-cloud-1" /> </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="whoisOneZero" /></p>
 
