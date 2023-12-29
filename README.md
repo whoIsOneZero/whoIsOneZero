@@ -10,13 +10,14 @@
 
 **Frameworks & Tools**
 - Flutter, Git
+- IDA, Metasploit Framework, Burp Suite, Wireshark, Nmap, Hydra
 
 <!-- **Tools**
 - Git -->
 
-**Penetration Testing**
+<!-- **Penetration Testing**
 - IDA
-- Metasploit Framework, Burp Suite, Wireshark, Nmap, Hydra
+- Metasploit Framework, Burp Suite, Wireshark, Nmap, Hydra -->
 
 <!-- ## 🏆 Certifications
 
