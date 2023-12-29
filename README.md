@@ -9,21 +9,21 @@
 
 - Dart, Python, C
 
-**Frameworks**
+**Frameworks & Tools**
 
-- Flutter
+- Flutter, Git
 
-**Tools**
+<!-- **Tools**
 
-- Git
+- Git -->
 
 **Penetration Testing**
-
+- Ghidra, IDA
 - Metasploit Framework, Burp Suite, Wireshark, Nmap, Hydra
 
-## 🏆 Certifications
+<!-- ## 🏆 Certifications
 
-## 👩‍💻 Professional Experience
+## 👩‍💻 Professional Experience -->
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoIsOneZero&label=Profile%20views&color=0e75b6&style=flat" alt="whoisOneZero"/> </p>
