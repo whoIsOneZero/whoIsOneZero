@@ -3,6 +3,8 @@
 
 - 🔍 I’m looking to collaborate on Mobile app development projects with a security focus.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoIsOneZero&label=Profile%20views&color=0e75b6&style=flat" alt="whoisOneZero"/> </p>
+
 ## 🛠 Skills
 
 **Languages**
@@ -22,9 +24,6 @@
 <!-- ## 🏆 Certifications
 
 ## 👩‍💻 Professional Experience -->
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoIsOneZero&label=Profile%20views&color=0e75b6&style=flat" alt="whoisOneZero"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="whoisOneZero" /></p>
 
