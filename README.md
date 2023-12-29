@@ -1,6 +1,29 @@
-- Hi there.
-- Software Engineer and Flutter dev.
-- I’m looking to collaborate on Mobile app dev.
+##  Hi there!
+- I'm a student pursuing a course in Software Engineering with a keen interest in cybersecurity, particularly in Penetration Testing and Vulnerability Testing. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
+
+- 🔍 I’m looking to collaborate on Mobile app development projects with a security focus.
+
+## 🛠 Skills
+
+**Languages**
+
+- Dart, Python, C
+
+**Frameworks**
+
+- Flutter
+
+**Tools**
+
+- Git
+
+**Penetration Testing**
+
+- Metasploit Framework, Burp Suite, Wireshark, Nmap, Hydra
+
+## 🏆 Certifications
+
+## 👩‍💻 Professional Experience
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoIsOneZero&label=Profile%20views&color=0e75b6&style=flat" alt="whoisOneZero"/> </p>
