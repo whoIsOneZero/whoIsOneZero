@@ -1,5 +1,5 @@
 ##  Hi there!
-- I'm a student pursuing a course in Software Engineering with a keen interest in cybersecurity, particularly in Penetration Testing and Vulnerability Testing. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
+- I'm a student pursuing a course in Software Engineering with a keen interest in cybersecurity, particularly in Penetration and Vulnerability Testing. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
 
 - 🔍 I’m looking to collaborate on Mobile app development projects with a security focus.
 
@@ -14,10 +14,6 @@
 
 <!-- **Tools**
 - Git -->
-
-<!-- **Penetration Testing**
-- IDA
-- Metasploit Framework, Burp Suite, Wireshark, Nmap, Hydra -->
 
 <!-- ## 🏆 Certifications
 
