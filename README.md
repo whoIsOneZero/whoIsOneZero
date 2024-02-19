@@ -10,7 +10,7 @@
 
 **Frameworks & Tools**
 - Flutter, Git
-- IDA, Metasploit Framework, Burp Suite, Wireshark, Nmap, Hydra
+- IDA, Burp Suite, Wireshark, Nmap
 
 <!-- **Tools**
 - Git -->
