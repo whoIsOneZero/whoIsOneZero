@@ -1,15 +1,15 @@
 ##  Hi there!
-- I'm a Software Engineering student with a keen interest in cybersecurity, particularly in Penetration and Vulnerability Testing, and Malware Security. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
+- I'm a software engineer with a keen interest in cybersecurity, particularly in Penetration Testing and Vulnerability Assessment. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
 
-- 🔍 I’m looking to collaborate on Mobile app development projects with a security focus.
+- 🔍 I’m looking to collaborate on cybersecurity and mobile app development projects.
 
 ## 🛠 Skills
 
 **Languages**
-- C, Dart, Python, JavaScript
+- C, Dart, Python, JavaScript, VB .NET
 
 **Frameworks & Tools**
-- Flutter, Git
+- Flutter, Git, FastAPI, Visual Basic
 - IDA, Burp Suite, Wireshark, Nmap
 
 <!-- **Tools**
