@@ -1,5 +1,5 @@
 ##  Hi there!
-- I'm a software engineer with a keen interest in cybersecurity, particularly in Penetration Testing and Vulnerability Assessment. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
+- I'm a Software Engineer with a keen interest in Cybersecurity, particularly in Penetration Testing and Vulnerability Assessment. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
 
 - 🔍 I’m looking to collaborate on cybersecurity and mobile app development projects.
 
