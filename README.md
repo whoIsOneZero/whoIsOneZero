@@ -29,7 +29,7 @@ Talk to me about:
 - Robust full-stack system design implementation.
 - Solving Data structure and Algorithm problems
 
-**Cybersecurity Tools**
+## Cybersecurity Tools
 
 - Nessus, Burp Suite, Wireshark, Nmap
 
