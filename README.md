@@ -10,13 +10,73 @@
 
 ## 🛠 **Skills**
 
-| **Languages**                                                                                                                                                                 | **Web Dev**                                                                                                                                                           | **Mobile & Desktop Dev**                                                                                                                                                      | **Databases**                                                                                                                                                         | **Version Control**                                                                                                                       | **Backend Frameworks**                                                                                                                                        | **Design & Tools**                                                                                                                                | **M.L & Data Science**                                                                                                                                                        | **Scripting**                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <code><img height="40" width="40" alt="c" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/c/c.png"></code> C                                             | <code><img height="40" width="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/html/html.png"></code> HTML                         | <code><img height="40" width="40" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/flutter/flutter.png"></code> Flutter                     | <code><img height="40" width="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/mysql/mysql.png"></code> MySQL                     | <code><img height="40" width="40" alt="git" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/git/git.png"></code> Git | <code><img height="40" width="40" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/fastapi/fastapi.png"></code> FastAPI     | <code><img height="40" width="40" alt="figma" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/figma/figma.png"></code> Figma | <code><img height="40" width="40" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/tensorflow/tensorflow.png"></code> TensorFlow         | <code><img height="40" width="40" alt="bash" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/bash/bash.png"></code> Bash |
-| <code><img height="40" width="40" alt="dart" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/dart/dart.png"></code> Dart                                 | <code><img height="40" width="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/css/css.png"></code> CSS                             | <code><img height="40" width="40" alt="visual basic" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/visual-basic/visual-basic.png"></code> Visual Basic | <code><img height="40" width="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/postgresql/postgresql.png"></code> PostgreSQL |                                                                                                                                           | <code><img height="40" width="40" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/firebase/firebase.png"></code> Firebase |                                                                                                                                                   | <code><img height="40" width="40" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/scikit-learn/scikit-learn.png"></code> Scikit-Learn |                                                                                                                                               |
-| <code><img height="40" width="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/python/python.png"></code> Python                         | <code><img height="40" width="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/javascript/javascript.png"></code> JavaScript |                                                                                                                                                                               |                                                                                                                                                                       |                                                                                                                                           |                                                                                                                                                               |                                                                                                                                                   | <code><img height="40" width="40" alt="numpy" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/numpy/numpy.png"></code> NumPy                             |                                                                                                                                               |
-| <code><img height="40" width="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/javascript/javascript.png"></code> JavaScript         | <code><img height="40" width="40" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/bootstrap/bootstrap.png"></code> Bootstrap     |                                                                                                                                                                               |                                                                                                                                                                       |                                                                                                                                           |                                                                                                                                                               |                                                                                                                                                   | <code><img height="40" width="40" alt="matlab" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/matlab/matlab.png"></code> MATLAB                         |                                                                                                                                               |
-| <code><img height="40" width="40" alt="visual basic" src="https://raw.githubusercontent.com/github/explore/80ce885/topics/visual-basic/visual-basic.png"></code> Visual Basic |                                                                                                                                                                       |                                                                                                                                                                               |                                                                                                                                                                       |                                                                                                                                           |                                                                                                                                                               |                                                                                                                                                   |                                                                                                                                                                               |                                                                                                                                               |
+### Languages
+
+- C
+- Dart
+- Python
+- JavaScript
+
+### Web Development
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Mobile & Desktop Development
+
+- Flutter
+- Visual Basic
+
+### Databases
+
+- MySQL
+- PostgreSQL
+
+### Backend Frameworks
+
+- FastAPI
+- Firebase
+
+### Design Tools
+
+- Figma
+
+### Machine Learning & Data Science
+
+- TensorFlow
+- Scikit-Learn
+- NumPy
+- MATLAB
+
+### Scripting
+
+- Bash
+
+---
+
+## Skill Icons
+
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?logo=dot-net&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
 ## Work
 
