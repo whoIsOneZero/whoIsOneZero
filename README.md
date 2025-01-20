@@ -10,54 +10,6 @@
 
 ## 🛠 **Skills**
 
-### Languages
-
-- C
-- Dart
-- Python
-- JavaScript
-
-### Web Development
-
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-### Mobile & Desktop Development
-
-- Flutter
-- Visual Basic
-
-### Databases
-
-- MySQL
-- PostgreSQL
-
-### Backend Frameworks
-
-- FastAPI
-- Firebase
-
-### Design Tools
-
-- Figma
-
-### Machine Learning & Data Science
-
-- TensorFlow
-- Scikit-Learn
-- NumPy
-- MATLAB
-
-### Scripting
-
-- Bash
-
----
-
-## Skill Icons
-
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -84,10 +36,11 @@ Talk to me about:
 
 - Mobile, Desktop and Web application development.
 - Front-end web development
-- Backend development using
+- Backend development
 - Designing and managing Relational Database Management Systems (RDBMS)
 - Robust full-stack system design implementation.
 - Solving Data structure and Algorithm problems
+- Cybersecurity trainings
 
 ## Cybersecurity Tools
 
