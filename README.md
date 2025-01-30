@@ -8,7 +8,7 @@
 
 - C, Dart, Python, JavaScript, Visual Basic -->
 
-## 🛠 **Skills**
+## 🛠 **Tools and Languages**
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
@@ -50,6 +50,6 @@ Talk to me about:
 
 ## 👩‍💻 Professional Experience -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="whoisOneZero" /></p>
-
-<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?whoisonezero" frameborder="0"></iframe> -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="whoisOneZero" /></p>
+ -->
+ <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?whoisonezero" frameborder="0"></iframe> -->
