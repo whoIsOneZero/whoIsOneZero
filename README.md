@@ -1,6 +1,7 @@
 ## Hi there!
 
-- I'm a Software Engineer with a keen interest in Cybersecurity, particularly in Penetration Testing and Vulnerability Assessment. I'm aspiring to deepen my knowledge and skills in ethical hacking and security testing.
+- I'm a Software Engineer and Security Researcher with interests in Penetration Testing and Vulnerability Assessment.
+- Check out my porfolio website: https://tinyurl.com/shallom-portfolio
 
 <!-- ## 🛠 Skills
 
