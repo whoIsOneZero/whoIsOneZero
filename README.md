@@ -1,6 +1,6 @@
 ## Hi there!
 
-- I'm a Software Engineer and Security Researcher with interests in Penetration Testing and Vulnerability Assessment.
+- I'm Shalom, a Software Engineer and Security Researcher with interests in Penetration Testing and Vulnerability Assessment.
 - Check out my porfolio website: https://tinyurl.com/shallom-portfolio
 
 <!-- ## 🛠 Skills
@@ -9,7 +9,7 @@
 
 - C, Dart, Python, JavaScript, Visual Basic -->
 
-## 🛠 **Tools and Languages**
+## **Tools and Languages**
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
