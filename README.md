@@ -3,12 +3,6 @@
 - I'm Shalom, a Software Engineer and Security Researcher with interests in Penetration Testing and Vulnerability Assessment.
 - Check out my porfolio website: https://tinyurl.com/shallom-portfolio
 
-<!-- ## 🛠 Skills
-
-**Languages**
-
-- C, Dart, Python, JavaScript, Visual Basic -->
-
 ## **Tools and Languages**
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
@@ -30,27 +24,39 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+![Brainfuck](https://img.shields.io/badge/-Brainfuck-2D2D2D?logo=brainfuck&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 
-## Work
 
-Talk to me about:
+
+## Talk To Me About:
 
 - Mobile, Desktop and Web application development.
 - Front-end web development
 - Backend development
 - Designing and managing Relational Database Management Systems (RDBMS)
-- Robust full-stack system design implementation.
-- Solving Data structure and Algorithm problems
-- Cybersecurity trainings
+- Cybersecurity research
 
-## Cybersecurity Tools
+## Cybersecurity Interests
 
-- Nessus, Burp Suite, Wireshark, Nmap
+- Penetration Testing
+- Malware Analysis and Reverse Engineering
+- Adversarial AI
+
+---
+
+![whoIsOneZero's Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoIsOneZero&theme=vue-dark&hide_border=true)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoIsOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></p>
+
+![whoIsOneZero's Stats](https://github-readme-stats.vercel.app/api?username=whoIsOneZero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- ## 🏆 Certifications
 
 ## 👩‍💻 Professional Experience -->
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="whoisOneZero" /></p>
+
  -->
  <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?whoisonezero" frameborder="0"></iframe> -->
