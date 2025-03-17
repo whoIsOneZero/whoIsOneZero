@@ -27,8 +27,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 ![Brainfuck](https://img.shields.io/badge/-Brainfuck-2D2D2D?logo=brainfuck&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-
-
+![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-525252?logo=assemblyscript&logoColor=white&style=for-the-badge)
+![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?logo=puppet&logoColor=white&style=for-the-badge)
 
 ## Talk To Me About:
 
@@ -46,17 +46,20 @@
 
 ---
 
-![whoIsOneZero's Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoIsOneZero&theme=vue-dark&hide_border=true)
+<!--
+![whoIsOneZero's Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoIsOneZero&theme=vue-dark&hide_border=true) -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoIsOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></p>
+<p align="center"> <img src="https://githubreadmestats-alpha.vercel.app/api?username=whoIsOneZero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/> </p>
 
-![whoIsOneZero's Stats](https://github-readme-stats.vercel.app/api?username=whoIsOneZero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center"> <img src="https://githubreadmestats-alpha.vercel.app/api/top-langs/?username=whoIsOneZero&langs_count=13&hide=jupyter%20notebook,php,blade,cmake,scss,ruby,kotlin,mako,objective-c,m,swift&layout=compact&theme=vue-dark&hide_border=true"/></p>
+
+[![GitHub Streak](https://github-readme-streak-stats-ten-rho-60.vercel.app/?user=whoisonezero&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- ## 🏆 Certifications
 
 ## 👩‍💻 Professional Experience -->
 
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisOneZero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="whoisOneZero" /></p>
+<!--
 
  -->
  <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?whoisonezero" frameborder="0"></iframe> -->
