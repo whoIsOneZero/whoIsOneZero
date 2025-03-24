@@ -57,9 +57,9 @@
     <img src="https://githubreadmestats-alpha.vercel.app/api/top-langs/?username=whoIsOneZero&langs_count=13&hide=jupyter%20notebook,php,blade,cmake,scss,ruby,kotlin,mako,objective-c,m,swift&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-ten-rho-60.vercel.app/?user=whoisonezero&theme=vue-dark&hide_border=true" alt="GitHub Streak">
-</p>
+</p> -->
 
 <!-- ## 🏆 Certifications
 
