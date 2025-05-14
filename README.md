@@ -1,7 +1,8 @@
 ## Hi there!
 
 - I'm Shalom, a Software Engineer and Security Researcher with interests in Penetration Testing and Vulnerability Assessment.
-- Check out my porfolio website: https://tinyurl.com/shallom-portfolio
+- Check out my portfolio website: https://bit.ly/sezekiel
+<!-- - Check out my porfolio website: https://tinyurl.com/shallom-portfolio -->
 
 ## **Tools and Languages**
 
